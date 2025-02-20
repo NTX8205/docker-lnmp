@@ -6,5 +6,4 @@
 /nginx/log/*
 !/nginx/log/.gitkeep
 
-*.yaml
 .env
